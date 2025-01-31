@@ -1,1 +1,3 @@
-# magi
+# Magi
+
+The Magi.

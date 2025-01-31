@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+
+/lib/glfw/
+/lib/vulkan/
